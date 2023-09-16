@@ -26,6 +26,7 @@ Email spam is a widespread problem, and this project aims to build a machine lea
 
 To train and evaluate the email spam prediction model, you will need a labeled dataset containing a collection of emails classified as either spam or not spam (ham). You can obtain such datasets from various sources or create one by manually labeling a set of emails.
 
+Dataset used Link: https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset
 ## Preprocessing
 
 Data preprocessing is a crucial step in building a machine learning model for email spam prediction. It involves tasks such as text cleaning, tokenization, and handling missing data. Additionally, you may need to remove or replace email-specific information like email addresses and timestamps.
